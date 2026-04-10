@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>GhostCue 1.1.3</title>
-            <pubDate>Fri, 10 Apr 2026 20:09:48 +0000</pubDate>
+            <pubDate>Fri, 10 Apr 2026 20:15:40 +0000</pubDate>
             <sparkle:version>1.1.3</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -15,13 +15,14 @@
                 <ul>
                     <li>Fixed notch mode buttons appearing outside window</li>
                     <li>Fixed "Always Show Floater" setting not saving</li>
-                    <li>Floater now shows alongside windows when enabled</li>                </ul>
+                    <li>Floater now shows alongside windows when enabled</li>
+                    <li>Fixed missing app icon</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="3315543"
+                length="4229592"
                 type="application/octet-stream"
-                sparkle:edSignature="oHcBzIWbsnYsZul3eaO2LmbrqBfLe3dW1KPf+HAUzy8ZPUOU06mcEd7yZuVOaqJGGus/bSY+ftYUeR9HPG6KCA=="
+                sparkle:edSignature="fb5czQLpxqTwsjx7BZx3Ot+Iyp8t4VTco8qwaiOO1ne3eHBVi7Vv4WLbIE5UvJlECCaogXVf9khm4wBPiHuQAw=="
             />
         </item>
     </channel>
