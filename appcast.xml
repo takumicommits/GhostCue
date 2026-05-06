@@ -6,10 +6,10 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.5.5</title>
-            <pubDate>Wed, 06 May 2026 20:37:16 +0000</pubDate>
-            <sparkle:version>1.5.5</sparkle:version>
-            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <title>GhostCue 1.5.6</title>
+            <pubDate>Wed, 06 May 2026 20:50:41 +0000</pubDate>
+            <sparkle:version>1.5.6</sparkle:version>
+            <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
@@ -20,9 +20,9 @@
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="4508314"
+                length="4509494"
                 type="application/octet-stream"
-                sparkle:edSignature="X+OrpPUp6/GgM4FvaJSy7FH0zaT+XImn0DMh9yfYOOeP1UvmZFKpE93D79TdnWgnwuPZkTRh2ClHhUt6XGV5BQ=="
+                sparkle:edSignature="J1bInrZLKkLpbAm1o1j4qiuMqTVSgkpIwNE5WEo18QD7DTNDv5DfKuqqG5/R6+EP7eAyC8Z87ubrUAdq3TBTCg=="
             />
         </item>
     </channel>
