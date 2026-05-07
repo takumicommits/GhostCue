@@ -6,23 +6,21 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.5.10</title>
-            <pubDate>Wed, 06 May 2026 21:33:01 +0000</pubDate>
-            <sparkle:version>1.5.10</sparkle:version>
-            <sparkle:shortVersionString>1.5.10</sparkle:shortVersionString>
+            <title>GhostCue 1.5.11</title>
+            <pubDate>Thu, 07 May 2026 04:47:39 +0000</pubDate>
+            <sparkle:version>1.5.11</sparkle:version>
+            <sparkle:shortVersionString>1.5.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Updated settings menu</li>
-                    <li>New onboarding flow</li>
-                    <li>One-click copy text</li>
-                    <li>Double-click floater to hide/unhide notes!</li>                </ul>
+                    <li>Fixed the update button to download and install updates automatically</li>
+                    <li>Embedded Sparkle in release builds so one-click updates can quit replace and relaunch GhostCue</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="4509825"
+                length="5772091"
                 type="application/octet-stream"
-                sparkle:edSignature="Rcds1U0bhhUuSM5DJFXP1hdCZvXWaVxhZL9uteoGk0HQJFVeVYM6cuRYSLau2ywr9fnMcwatqQmQQ1L3XsbkCw=="
+                sparkle:edSignature="ZoorX7L6Bukci+LfrzhKlSlj/BPVhDy78dI+sNseUYLs6Lo9ww2znBqQEInYy6ug1J6Jb+knEJOt/ES0SrkHBg=="
             />
         </item>
     </channel>
