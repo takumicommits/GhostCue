@@ -6,24 +6,23 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.5.22</title>
-            <pubDate>Mon, 18 May 2026 21:01:00 +0000</pubDate>
-            <sparkle:version>1.5.22</sparkle:version>
-            <sparkle:shortVersionString>1.5.22</sparkle:shortVersionString>
+            <title>GhostCue 1.5.23</title>
+            <pubDate>Mon, 18 May 2026 21:10:02 +0000</pubDate>
+            <sparkle:version>1.5.23</sparkle:version>
+            <sparkle:shortVersionString>1.5.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
                     <li>more polished tutorial</li>
                     <li>minor button design fixes</li>
                     <li>bug fixes</li>
-                    <li>slightly bigger buttons on sticky notes</li>
-                </ul>
+                    <li>slightly bigger buttons on sticky notes</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="5849416"
+                length="5850288"
                 type="application/octet-stream"
-                sparkle:edSignature="Na6ZMSgcM67pvcuX+j9xISUARDhEoXPPihgD+m/dUl+JMa8FduFYvTeeO5LesM3Xd7T7UilZKPOlfv/qnJbMCg=="
+                sparkle:edSignature="0iTJHouBUBwgrYAmxMjZcKIfkyneUFUtIXEDMKm01ZFzDqWSqzMdBmddTN+IbO1F/DRmeAFXm+/A5HEV03kIDw=="
             />
         </item>
     </channel>
