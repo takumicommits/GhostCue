@@ -13,7 +13,11 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>more polished tutorial</li>                </ul>
+                    <li>more polished tutorial</li>
+                    <li>minor button design fixes</li>
+                    <li>bug fixes</li>
+                    <li>slightly bigger buttons on sticky notes</li>
+                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
