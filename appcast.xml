@@ -6,25 +6,20 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.5.26</title>
-            <pubDate>Mon, 18 May 2026 21:39:59 +0000</pubDate>
-            <sparkle:version>1.5.26</sparkle:version>
-            <sparkle:shortVersionString>1.5.26</sparkle:shortVersionString>
+            <title>GhostCue 1.5.27</title>
+            <pubDate>Mon, 18 May 2026 23:58:47 +0000</pubDate>
+            <sparkle:version>1.5.27</sparkle:version>
+            <sparkle:shortVersionString>1.5.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>fixed update button bug</li>
-                    <li>more polished tutorial</li>
-                    <li>minor button design fixes</li>
-                    <li>bug fixes</li>
-                    <li>slightly bigger buttons on sticky notes</li>
-                    <li>added a deleted notes section</li>                </ul>
+                    <li>fixed undo for deleted text in notes</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="5880583"
+                length="5884276"
                 type="application/octet-stream"
-                sparkle:edSignature="1HJepZWm1Dpc4LQGCa3JEtwvWa8CrAiCvdkUOOJA4k5BRGSXqtiG2dLVXbnfXMdXEla3T6QJUIH4+/0Q4o6PDw=="
+                sparkle:edSignature="QOzkNmLcOm+JvK1DK30TEaWsnxRz0sCex45SS+MtHQm2cDEpLuVLRQ7Z+pgkhfMZ65V0cv4qR93G+CQCz6piDg=="
             />
         </item>
     </channel>
