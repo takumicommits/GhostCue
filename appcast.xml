@@ -6,22 +6,23 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.6.1</title>
-            <pubDate>Wed, 20 May 2026 00:58:34 +0000</pubDate>
-            <sparkle:version>1.6.1</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <title>GhostCue 1.6.2</title>
+            <pubDate>Wed, 20 May 2026 05:04:03 +0000</pubDate>
+            <sparkle:version>1.6.2</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
+                    <li>Keyboard Shortcuts</li>
                     <li>New clipboard feature!</li>
                     <li>press spacebar to play/pause teleprompter</li>
                     <li>manual scrolling while auto-scroll is active</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="5965608"
+                length="5985033"
                 type="application/octet-stream"
-                sparkle:edSignature="BqRjTLJosfT40vNVD7THLzdu1zeygYbpZYkFHRNErcEJ0KsUcFVi/2SBAgs0gORUMwMi+ZHRXKFCi+EwbyrZAA=="
+                sparkle:edSignature="oRbcQX+2bRSrBdo3fkSQ7vtd7QIWaPREiUfgBopAAqt5AbPutI1P7PDqKtV6B+VNsAWCGtCRf4k98L9r7pfdBA=="
             />
         </item>
     </channel>
