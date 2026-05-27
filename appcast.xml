@@ -6,20 +6,22 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.6.7</title>
-            <pubDate>Tue, 26 May 2026 20:25:14 +0000</pubDate>
-            <sparkle:version>1.6.7</sparkle:version>
-            <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
+            <title>GhostCue 1.6.8</title>
+            <pubDate>Wed, 27 May 2026 21:34:15 +0000</pubDate>
+            <sparkle:version>1.6.8</sparkle:version>
+            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Added Sound Effects on/off toggle in settings</li>                </ul>
+                    <li>New windows remember last position</li>
+                    <li>Rich text formatting fixes</li>
+                    <li>Fixed window activation bugs in visible mode</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="6259944"
+                length="6266731"
                 type="application/octet-stream"
-                sparkle:edSignature="4KlVYvHVA8pwiQlUj8CS9dVxhYcV82ccQRRbFIBkqhOI6reQ9z6AuD8aX6+w/s91VgbfIF3TzG5B9dr7Dn33Aw=="
+                sparkle:edSignature="763fKrXNjMcguH8f6oed9WbT7mEtD90MeMe19n4qZxuxuVguVlFsjxD4x+XykcMVrSbeTleYdPPqnoLizxNBBg=="
             />
         </item>
     </channel>
