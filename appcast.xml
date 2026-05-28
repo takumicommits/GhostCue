@@ -6,22 +6,23 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.6.8</title>
-            <pubDate>Wed, 27 May 2026 21:34:15 +0000</pubDate>
-            <sparkle:version>1.6.8</sparkle:version>
-            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+            <title>GhostCue 1.6.9</title>
+            <pubDate>Thu, 28 May 2026 05:27:45 +0000</pubDate>
+            <sparkle:version>1.6.9</sparkle:version>
+            <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
                     <li>New windows remember last position</li>
                     <li>Rich text formatting fixes</li>
-                    <li>Fixed window activation bugs in visible mode</li>                </ul>
+                    <li>Fixed window activation bugs in visible mode</li>
+                    <li>Checklists from Apple Notes can be copied over</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="6266731"
+                length="6274323"
                 type="application/octet-stream"
-                sparkle:edSignature="763fKrXNjMcguH8f6oed9WbT7mEtD90MeMe19n4qZxuxuVguVlFsjxD4x+XykcMVrSbeTleYdPPqnoLizxNBBg=="
+                sparkle:edSignature="6fO9g/xhZwlQNnMlCnthmxo1DcYjlXal8pH3WtIoHbBs7l5KtP+c6sWF8UfhZME7eOMZHHz0jq7aNsW7AstjAw=="
             />
         </item>
     </channel>
