@@ -6,20 +6,21 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.6.13</title>
-            <pubDate>Tue, 02 Jun 2026 23:29:10 +0000</pubDate>
-            <sparkle:version>1.6.13</sparkle:version>
-            <sparkle:shortVersionString>1.6.13</sparkle:shortVersionString>
+            <title>GhostCue 1.6.14</title>
+            <pubDate>Wed, 03 Jun 2026 03:47:50 +0000</pubDate>
+            <sparkle:version>1.6.14</sparkle:version>
+            <sparkle:shortVersionString>1.6.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>minor bug fixes</li>                </ul>
+                    <li>bug fixes for list formatting</li>
+                    <li>darker reading aid color in dark mode</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="6357582"
+                length="6361065"
                 type="application/octet-stream"
-                sparkle:edSignature="rs5cejJI0R+bd4M++48cSGjysj5AKIQ7bR3+lCgTdY9CD/58D/58EmgE47U5XZsowsoJNaCz6qF3F4fcRbGMBw=="
+                sparkle:edSignature="LFwrlA2XcVdQ+ejLpn12iTmYfKJlgXgLBdNdyKsHB4+Bs/3Jsjvq3zXxVr+Ksq2ZmyGvFEOalOAuRY3DJ7gXCw=="
             />
         </item>
     </channel>
