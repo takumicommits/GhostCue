@@ -6,23 +6,21 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.7.1</title>
-            <pubDate>Sat, 20 Jun 2026 00:01:35 +0000</pubDate>
-            <sparkle:version>1.7.1</sparkle:version>
-            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <title>GhostCue 1.7.2</title>
+            <pubDate>Sat, 20 Jun 2026 06:29:29 +0000</pubDate>
+            <sparkle:version>1.7.2</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Added clearer Pro handling for Invisible mode across toolbar notch and menu controls</li>
-                    <li>Improved upgrade and trial prompts when using Pro-only features</li>
-                    <li>Updated onboarding and in-app copy to better explain visible mode and Invisible mode</li>
-                    <li>Fixed several settings preview and window interaction issues from the latest build</li>                </ul>
+                    <li>Liquid glass sliders and toggles</li>
+                    <li>Fixed bug where clickthrough doesn't work in visible mode</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="8666050"
+                length="8708709"
                 type="application/octet-stream"
-                sparkle:edSignature="c3gFukx5+MQveNjzcEd0wmc+zVHX8LY3ugt21RyH2S6Dgt7rlo/CLP5icwXL6Bl+55tqq9UADrS7kyL5YrcKCw=="
+                sparkle:edSignature="imarwQcW4qLBi93rm99ykzN1N6Lg8m35yxe7Flgema8rjAiqKI8wrFYXPt+vipFZE9hSr0G52IZqqHIr0yv7Cw=="
             />
         </item>
     </channel>
