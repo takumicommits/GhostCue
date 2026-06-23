@@ -6,21 +6,20 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.7.2</title>
-            <pubDate>Sat, 20 Jun 2026 06:29:29 +0000</pubDate>
-            <sparkle:version>1.7.2</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <title>GhostCue 1.7.3</title>
+            <pubDate>Tue, 23 Jun 2026 06:44:49 +0000</pubDate>
+            <sparkle:version>1.7.3</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Liquid glass sliders and toggles</li>
-                    <li>Fixed bug where clickthrough doesn't work in visible mode</li>                </ul>
+                    <li>Introducing a peephole in click-through mode for increased visibility under the app!</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="8708709"
+                length="8715789"
                 type="application/octet-stream"
-                sparkle:edSignature="imarwQcW4qLBi93rm99ykzN1N6Lg8m35yxe7Flgema8rjAiqKI8wrFYXPt+vipFZE9hSr0G52IZqqHIr0yv7Cw=="
+                sparkle:edSignature="iBtuToUnjlz2FyA2MOWDJ9NdfYtOrRiBOTNevF6ls4lQp7njbnafuxu9dctLnNePRG2HCaPKjHPrORpowG82DQ=="
             />
         </item>
     </channel>
