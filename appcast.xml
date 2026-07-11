@@ -6,23 +6,24 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.8.0</title>
-            <pubDate>Sat, 11 Jul 2026 16:09:49 +0000</pubDate>
-            <sparkle:version>1.8.0</sparkle:version>
-            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <title>GhostCue 1.8.1</title>
+            <pubDate>Sat, 11 Jul 2026 17:36:27 +0000</pubDate>
+            <sparkle:version>1.8.1</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
                     <li>Cue Mode — Turn a note's sections into full-screen cue cards you swipe through during recordings and calls</li>
                     <li>Sections — Split any note into sections and jump straight to one with ⌘1 through ⌘9</li>
                     <li>Section navigator — Manage all your sections from one menu that scrolls to whatever you just added</li>
-                    <li>Add sections mid-presentation — Create a new card without leaving Cue Mode and it slides right into view</li>                </ul>
+                    <li>Add sections mid-presentation — Create a new card without leaving Cue Mode and it slides right into view</li>
+                    <li>a bunch o' bug fixes!</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="8937336"
+                length="8951573"
                 type="application/octet-stream"
-                sparkle:edSignature="VMCPdtu0GpISTmydVv3Sq++SWg7u+ApvZrvQVlc7NaGGgVFsl+YosGOdf7+hvo2S4avcsWPf2qa7IqFGqsVABw=="
+                sparkle:edSignature="VztdNXYLxp+y+jPp2jVYU09FjZLI8BN54YpASdLU6e7bJ0q/UjEe5cG1gqcAMHC76vY8uDReGEM8uCh9IgJ3AQ=="
             />
         </item>
     </channel>
