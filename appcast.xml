@@ -6,21 +6,22 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.8.2</title>
-            <pubDate>Wed, 15 Jul 2026 17:06:07 +0000</pubDate>
-            <sparkle:version>1.8.2</sparkle:version>
-            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <title>GhostCue 1.8.3</title>
+            <pubDate>Thu, 16 Jul 2026 06:02:59 +0000</pubDate>
+            <sparkle:version>1.8.3</sparkle:version>
+            <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>minor UI upgrades</li>
-                    <li>bug fixes for Cue Mode</li>                </ul>
+                    <li>Drag and drop any file into GhostCue!</li>
+                    <li>UI improvements</li>
+                    <li>more bug fixes :)</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="8928533"
+                length="9018925"
                 type="application/octet-stream"
-                sparkle:edSignature="R1iz/9tkDAMst5CKKogKAmPsKtP3ZKHhDtUHwDSj18ZkIEPpBcPBXkz3WhUXOkiVXqTn1wRqLtPxR8kF3nkcBw=="
+                sparkle:edSignature="rFpZCCLZ2KJjtdeHkZ0/HqpAqkdk6D5KWRYJn00fVVzFeZMeW6LSAfgghqNfqtL5pix5aLFzFbU87bJ4o08yBA=="
             />
         </item>
     </channel>
