@@ -6,21 +6,22 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.8.4</title>
-            <pubDate>Sat, 18 Jul 2026 15:01:01 +0000</pubDate>
-            <sparkle:version>1.8.4</sparkle:version>
-            <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+            <title>GhostCue 1.8.5</title>
+            <pubDate>Tue, 21 Jul 2026 04:20:44 +0000</pubDate>
+            <sparkle:version>1.8.5</sparkle:version>
+            <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>minor bug fixes</li>
-                    <li>adjusted default cue card size</li>                </ul>
+                    <li>notch mode back to default</li>
+                    <li>onboarding fixes</li>
+                    <li>minor bug fixes</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="9020571"
+                length="9022117"
                 type="application/octet-stream"
-                sparkle:edSignature="DgX0ny7MIc576m/5VsABLvzE2OYahzPwYiOsT9iLKOnvTqsbJ7ECqy2bNvGlNsEv1CdDcSkVCTsWj2Ozud+8Bg=="
+                sparkle:edSignature="XvJVYkH9bjAQbXViLXn6GwuD8Z+Ar/qk1bPzbRhXLpEOWRT/4ndob6OT59dM5/YEv92vaj0PusTaoa1B6yBqDQ=="
             />
         </item>
     </channel>
