@@ -6,22 +6,21 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.8.5</title>
-            <pubDate>Tue, 21 Jul 2026 04:20:44 +0000</pubDate>
-            <sparkle:version>1.8.5</sparkle:version>
-            <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
+            <title>GhostCue 1.8.6</title>
+            <pubDate>Tue, 21 Jul 2026 18:50:59 +0000</pubDate>
+            <sparkle:version>1.8.6</sparkle:version>
+            <sparkle:shortVersionString>1.8.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>notch mode back to default</li>
-                    <li>onboarding fixes</li>
+                    <li>improved update flow</li>
                     <li>minor bug fixes</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="9022117"
+                length="9037550"
                 type="application/octet-stream"
-                sparkle:edSignature="XvJVYkH9bjAQbXViLXn6GwuD8Z+Ar/qk1bPzbRhXLpEOWRT/4ndob6OT59dM5/YEv92vaj0PusTaoa1B6yBqDQ=="
+                sparkle:edSignature="nvmFShZXCGXWgXhZKK25zLBlx2/G3LJMVMAqtwytgyec+Ph6GjmNeSt+VJatRUwohcKCj2cQQvTgUOKtT0r/Bg=="
             />
         </item>
     </channel>
