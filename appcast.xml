@@ -6,23 +6,24 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.9.1</title>
-            <pubDate>Sun, 26 Jul 2026 19:19:07 +0000</pubDate>
-            <sparkle:version>1.9.1</sparkle:version>
-            <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+            <title>GhostCue 1.9.2</title>
+            <pubDate>Sun, 26 Jul 2026 20:28:14 +0000</pubDate>
+            <sparkle:version>1.9.2</sparkle:version>
+            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
                     <li>Introducing voice-activated scrolling!</li>
                     <li>Split scripts into sections with the new section cutting button (Scissors)</li>
                     <li>Redesigned button layout for Notch & Cue Mode.</li>
-                    <li>Play/Pause button now activates on first click even if speed slider is out.</li>                </ul>
+                    <li>Play/Pause button now activates on first click even if speed slider is out.</li>
+                    <li>1.9.2 — improved voice scrolling pace</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="11384922"
+                length="11387854"
                 type="application/octet-stream"
-                sparkle:edSignature="1s28B/k8oQab8iB3vHJXsSaYgzUEVApl3yU+T3OSYi9XeJEJTIcdx76NJHLFxXmCMGvRvgOPWQHUs7dFRxX2AA=="
+                sparkle:edSignature="8ni7hMed4AbBWf+nIwkdeySzHG9uDk+y/n+PJEYvczUlINRERbDBjSZ98xKFUvlX4FwvFsZ+ay3BppbUDuVzBA=="
             />
         </item>
     </channel>
