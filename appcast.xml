@@ -6,10 +6,10 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 1.9.3</title>
-            <pubDate>Mon, 27 Jul 2026 02:55:24 +0000</pubDate>
-            <sparkle:version>1.9.3</sparkle:version>
-            <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+            <title>GhostCue 1.9.4</title>
+            <pubDate>Mon, 27 Jul 2026 21:56:07 +0000</pubDate>
+            <sparkle:version>1.9.4</sparkle:version>
+            <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
@@ -18,13 +18,14 @@
                     <li>Redesigned button layout for Notch & Cue Mode.</li>
                     <li>Play/Pause button now activates on first click even if speed slider is out.</li>
                     <li>1.9.2 — improved voice scrolling pace</li>
-                    <li>1.9.3 — voice scrolling is now faster and more responsive</li>                </ul>
+                    <li>1.9.3 — voice scrolling is now faster and more responsive</li>
+                    <li>1.9.4 — better mic range with a mic picker, auto-advancing cue cards, click-to-rename section titles, and Start from Clipboard</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="11397344"
+                length="11446878"
                 type="application/octet-stream"
-                sparkle:edSignature="6NWSQL45uLiJ9jQicvWQ2PWrAEsLx8VcB6l4+xbjs/MSEgWx8SPvxfyx6Ujiz2YFmfR5x2hiN+0rDekAOhOGBA=="
+                sparkle:edSignature="aaru5s5hKwlL8kQEAD1gMO3zyMZFS2fr0B4l86zxIAb5Hme+1OMmAD8RkPONeTV9ZtCFKm0yLT95/MArE2xAAQ=="
             />
         </item>
     </channel>
