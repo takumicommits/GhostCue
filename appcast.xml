@@ -6,26 +6,26 @@
         <description>GhostCue update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 2.0.0</title>
-            <pubDate>Tue, 28 Jul 2026 05:18:27 +0000</pubDate>
-            <sparkle:version>2.0.0</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>GhostCue 2.0.1</title>
+            <pubDate>Tue, 28 Jul 2026 14:29:15 +0000</pubDate>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Introducing the Live Rail! GhostCue now listens to your conversation and suggests the right section the moment its topic comes up — click a suggestion to jump straight to that card</li>
-                    <li>The rail hears both sides of the call and runs entirely on your Mac — nothing is recorded, nothing ever leaves your device</li>
-                    <li>Suggestions appear as frosted gold cards beside your cue deck, newest first, and quietly fade away when the moment passes — drag the rail anywhere you like</li>
-                    <li>Arm it with the wand button on the cue card — first use downloads the on-device speech model and asks for Microphone and Screen Recording access (Apple Silicon)</li>
-                    <li>Cue cards are now locked while you present — double-click the text or use the new pencil button to edit, so a stray click can never mangle your script mid-call</li>
-                    <li>New shortcuts: ⌘[ and ⌘] switch cue cards even while you're working in another app, and ⌘' hide/unhide now works in Cue Mode</li>
-                    <li>Completely reworked Bluetooth headphone support — no more mic connect/disconnect loops, and headset mics now use the modern high-quality audio link</li>                </ul>
+                    <li>Introducing the Live Rail — GhostCue listens to your call and suggests the right section as its topic comes up. Click a suggestion to jump straight there.</li>
+                    <li>It runs entirely on your Mac: nothing is recorded, nothing ever leaves your device.</li>
+                    <li>Arm it with the wand button on the cue card, then drag the rail anywhere you like (Apple Silicon).</li>
+                    <li>Cue cards now lock while you present — double-click the text or use the pencil button to edit.</li>
+                    <li>⌘[ and ⌘] switch cue cards from any app, and ⌘' hide/unhide now works in Cue Mode.</li>
+                    <li>Reworked Bluetooth headphone support — no more mic connect/disconnect loops.</li>
+                    <li>2.0.1 — Denied a permission by mistake? GhostCue now takes you straight to the right setting instead of leaving you stuck.</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="11631470"
+                length="11692660"
                 type="application/octet-stream"
-                sparkle:edSignature="IA9ojfbGXkww84Oa1Qw5qJ889zRLANCrsMe5aVEw6guXNhcUnKwB/YtSpbp+DwX6u10TTEZCSKGTUlPFgoBqCg=="
+                sparkle:edSignature="FuGIyQ4bqQaBe7JdkNx90nl6rS3rFOjaRA6zw4HT8drsDweLSFLrdthtQvpAnCWQ1MJFnQxPmb22gtwIgJnwBw=="
             />
         </item>
     </channel>
