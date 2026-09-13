@@ -1,31 +1,31 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>GhostCue Updates</title>
+        <title>GlideRail Updates</title>
         <link>https://github.com/takumicommits/GhostCue</link>
-        <description>GhostCue update feed</description>
+        <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 2.0.1</title>
-            <pubDate>Tue, 28 Jul 2026 14:29:15 +0000</pubDate>
-            <sparkle:version>2.0.1</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <title>GlideRail 2.1.0</title>
+            <pubDate>Sun, 13 Sep 2026 07:15:34 +0000</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Introducing the Live Rail — GhostCue listens to your call and suggests the right section as its topic comes up. Click a suggestion to jump straight there.</li>
-                    <li>It runs entirely on your Mac: nothing is recorded, nothing ever leaves your device.</li>
-                    <li>Arm it with the wand button on the cue card, then drag the rail anywhere you like (Apple Silicon).</li>
-                    <li>Cue cards now lock while you present — double-click the text or use the pencil button to edit.</li>
-                    <li>⌘[ and ⌘] switch cue cards from any app, and ⌘' hide/unhide now works in Cue Mode.</li>
-                    <li>Reworked Bluetooth headphone support — no more mic connect/disconnect loops.</li>
-                    <li>2.0.1 — Denied a permission by mistake? GhostCue now takes you straight to the right setting instead of leaving you stuck.</li>                </ul>
+                    <li>GhostCue is now GlideRail. Same app, same license, new name and icon. Your notes and settings carry over.</li>
+                    <li>New first-run tour: watch your note vanish from a live preview of your own screen.</li>
+                    <li>Monthly plan ($19.99/mo) alongside Annual and Lifetime. Change or cancel any time from Settings.</li>
+                    <li>Live Rail and Voice Follow on Apple Silicon: clearer microphone states, with an Open System Settings shortcut when access is denied.</li>
+                    <li>Cue cards: real previous/next controls, your own note as the demo deck, and slice mode explains itself.</li>
+                    <li>New Help menu: replay the tour, contact support.</li>
+                    <li>Fixes: note titles no longer keep the #, trial days count down correctly, and plan status stays accurate in the background.</li>                </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="11692660"
+                url="https://github.com/takumicommits/GhostCue/releases/download/sparkle-test/GlideRail.dmg"
+                length="12728878"
                 type="application/octet-stream"
-                sparkle:edSignature="FuGIyQ4bqQaBe7JdkNx90nl6rS3rFOjaRA6zw4HT8drsDweLSFLrdthtQvpAnCWQ1MJFnQxPmb22gtwIgJnwBw=="
+                sparkle:edSignature="BC4RynBfkRq/wS5cYSwZxyFH+pdaMWYedLDOLeIXwLrPO5ejS1guX3oA5WFHfx32AL+fpJDcgFpQXGgZzpHZAQ=="
             />
         </item>
     </channel>
