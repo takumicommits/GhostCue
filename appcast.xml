@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>GlideRail 2.1.0</title>
-            <pubDate>Sun, 13 Sep 2026 07:15:34 +0000</pubDate>
+            <pubDate>Sun, 13 Sep 2026 09:03:38 +0000</pubDate>
             <sparkle:version>2.1.0</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -23,9 +23,9 @@
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/sparkle-test/GlideRail.dmg"
-                length="12728878"
+                length="12732980"
                 type="application/octet-stream"
-                sparkle:edSignature="BC4RynBfkRq/wS5cYSwZxyFH+pdaMWYedLDOLeIXwLrPO5ejS1guX3oA5WFHfx32AL+fpJDcgFpQXGgZzpHZAQ=="
+                sparkle:edSignature="/x7M04N9sFncdeSW0m09Z9mikJSlZa1sqPCUW4akCGu2lqy/eQonvRKTsbAjrV3CG+shmnXJLyXWSbyUWjw+Dg=="
             />
         </item>
     </channel>
