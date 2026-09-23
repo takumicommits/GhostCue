@@ -7,25 +7,23 @@
         <language>en</language>
         <item>
             <title>GlideRail 2.1.0</title>
-            <pubDate>Sun, 13 Sep 2026 09:03:38 +0000</pubDate>
+            <pubDate>Wed, 23 Sep 2026 21:55:36 +0000</pubDate>
             <sparkle:version>2.1.0</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>GhostCue is now GlideRail. Same app, same license, new name and icon. Your notes and settings carry over.</li>
-                    <li>New first-run tour: watch your note vanish from a live preview of your own screen.</li>
-                    <li>Monthly plan ($19.99/mo) alongside Annual and Lifetime. Change or cancel any time from Settings.</li>
-                    <li>Live Rail and Voice Follow on Apple Silicon: clearer microphone states, with an Open System Settings shortcut when access is denied.</li>
-                    <li>Cue cards: real previous/next controls, your own note as the demo deck, and slice mode explains itself.</li>
-                    <li>New Help menu: replay the tour, contact support.</li>
-                    <li>Fixes: note titles no longer keep the #, trial days count down correctly, and plan status stays accurate in the background.</li>                </ul>
+                    <li>GhostCue is now GlideRail. Your notes, settings and license carry over.</li>
+                    <li>Buying Pro inside the app now unlocks it automatically</li>
+                    <li>A redesigned Live Rail and a simpler way to upgrade</li>
+                    <li>Notch Mode sits flush with the top of the screen</li>
+                    <li>Much lighter on your battery when the app sits idle</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/sparkle-test/GlideRail.dmg"
-                length="12732980"
+                length="13129468"
                 type="application/octet-stream"
-                sparkle:edSignature="/x7M04N9sFncdeSW0m09Z9mikJSlZa1sqPCUW4akCGu2lqy/eQonvRKTsbAjrV3CG+shmnXJLyXWSbyUWjw+Dg=="
+                sparkle:edSignature="Pmxx5IglcV9glmraX4Clwe5bwC/YW4d36mJAjzZS7zm8rZwYGms3zBaIzm82lax3rsCTZ4GQbgEVe5ykoHJhBg=="
             />
         </item>
     </channel>
