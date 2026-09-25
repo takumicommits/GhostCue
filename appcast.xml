@@ -1,31 +1,27 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>GhostCue Updates</title>
+        <title>GlideRail Updates</title>
         <link>https://github.com/takumicommits/GhostCue</link>
-        <description>GhostCue update feed</description>
+        <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GhostCue 2.0.1</title>
-            <pubDate>Tue, 28 Jul 2026 14:29:15 +0000</pubDate>
-            <sparkle:version>2.0.1</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <title>GlideRail 2.1.0</title>
+            <pubDate>Fri, 25 Sep 2026 19:49:39 +0000</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Introducing the Live Rail — GhostCue listens to your call and suggests the right section as its topic comes up. Click a suggestion to jump straight there.</li>
-                    <li>It runs entirely on your Mac: nothing is recorded, nothing ever leaves your device.</li>
-                    <li>Arm it with the wand button on the cue card, then drag the rail anywhere you like (Apple Silicon).</li>
-                    <li>Cue cards now lock while you present — double-click the text or use the pencil button to edit.</li>
-                    <li>⌘[ and ⌘] switch cue cards from any app, and ⌘' hide/unhide now works in Cue Mode.</li>
-                    <li>Reworked Bluetooth headphone support — no more mic connect/disconnect loops.</li>
-                    <li>2.0.1 — Denied a permission by mistake? GhostCue now takes you straight to the right setting instead of leaving you stuck.</li>                </ul>
+                    <li>GhostCue is now GlideRail. Your notes, settings and license carry over.</li>
+                    <li>A redesigned Live Rail and a simpler way to upgrade</li>
+                    <li>Much lighter on your battery when the app sits idle</li>                </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/takumicommits/GhostCue/releases/download/latest/GhostCue.dmg"
-                length="11692660"
+                url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
+                length="13869545"
                 type="application/octet-stream"
-                sparkle:edSignature="FuGIyQ4bqQaBe7JdkNx90nl6rS3rFOjaRA6zw4HT8drsDweLSFLrdthtQvpAnCWQ1MJFnQxPmb22gtwIgJnwBw=="
+                sparkle:edSignature="5nisHxteQjhCNeDL6wFJd+8tv54do40oY0JdNVrHLq9x46VIAmKhvrdMhT1szHZoYEpZ529U9BHe86w3jgOaDg=="
             />
         </item>
     </channel>
