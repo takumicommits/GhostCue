@@ -6,22 +6,20 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.0</title>
-            <pubDate>Fri, 25 Sep 2026 19:49:39 +0000</pubDate>
-            <sparkle:version>2.1.0</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <title>GlideRail 2.1.1</title>
+            <pubDate>Sat, 26 Sep 2026 19:49:24 +0000</pubDate>
+            <sparkle:version>2.1.1</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>GhostCue is now GlideRail. Your notes, settings and license carry over.</li>
-                    <li>A redesigned Live Rail and a simpler way to upgrade</li>
-                    <li>Much lighter on your battery when the app sits idle</li>                </ul>
+                    <li>Fixes a slowdown that could make your Mac lag right after waking from sleep</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="13869545"
+                length="13869878"
                 type="application/octet-stream"
-                sparkle:edSignature="5nisHxteQjhCNeDL6wFJd+8tv54do40oY0JdNVrHLq9x46VIAmKhvrdMhT1szHZoYEpZ529U9BHe86w3jgOaDg=="
+                sparkle:edSignature="8mPuIIcccXgPa6Dd8t3k819Ho2VdIPyXYtj8ML8tLwz7qtRSx6aZXx1EnCUR0xchOjAkJCUN6oqRRieoYCxQCg=="
             />
         </item>
     </channel>
