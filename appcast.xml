@@ -6,20 +6,21 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.4</title>
-            <pubDate>Mon, 12 Oct 2026 18:56:53 +0000</pubDate>
-            <sparkle:version>2.1.4</sparkle:version>
-            <sparkle:shortVersionString>2.1.4</sparkle:shortVersionString>
+            <title>GlideRail 2.1.5</title>
+            <pubDate>Tue, 13 Oct 2026 01:38:47 +0000</pubDate>
+            <sparkle:version>2.1.5</sparkle:version>
+            <sparkle:shortVersionString>2.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Minor performance improvements and bug fixes</li>                </ul>
+                    <li>Speedier transitions into Cue Mode</li>
+                    <li>Minor bug fixes</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14092349"
+                length="14111299"
                 type="application/octet-stream"
-                sparkle:edSignature="UpYwCNg2KgwKrE/arglFTCUCwHkNo2q7yzb+fm7fXfI3OvriPo2a1BZImB9T80VvEGVun5boGRrt+JZ3r4+QCg=="
+                sparkle:edSignature="3E2Mr4zGK4ydHvKwoS2pWOyY6Ent4qaDeAANPOCEKEGdKo9YpuI93xmlhXvOWv2u3JKsIfIBM2PHu8ln46/XCQ=="
             />
         </item>
     </channel>
