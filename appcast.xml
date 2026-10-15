@@ -6,22 +6,20 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.7</title>
-            <pubDate>Wed, 14 Oct 2026 04:22:57 +0000</pubDate>
-            <sparkle:version>2.1.7</sparkle:version>
-            <sparkle:shortVersionString>2.1.7</sparkle:shortVersionString>
+            <title>GlideRail 2.1.8</title>
+            <pubDate>Thu, 15 Oct 2026 13:32:24 +0000</pubDate>
+            <sparkle:version>2.1.8</sparkle:version>
+            <sparkle:shortVersionString>2.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Auto split: in scissors mode, one click splits a note into sections at its headings</li>
-                    <li>Splitting a pasted note keeps every word, even when a heading line is a whole paragraph</li>
-                    <li>Click-through mode's view lens no longer shows dark outlines</li>                </ul>
+                    <li>Fixed the floater button's menu: its buttons respond to clicks and hovers right away and no longer slide sideways</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14690289"
+                length="14688263"
                 type="application/octet-stream"
-                sparkle:edSignature="+RSCmgUvBrvCoDqhpuoI3k25dkvrqyQoQWz1JQUQTJgrEDQQffuGvwORLeRy2b8M6NxspLP/0Ku7gtkXrECzCw=="
+                sparkle:edSignature="REv254ImxRUYOisZTjkPx9ZXUJ9jrZtQy9N+izI/elbryY9chdKLA84ExEgpvNafnQU1hzvb3vonRE7XJ0ZjBg=="
             />
         </item>
     </channel>
