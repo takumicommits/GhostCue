@@ -6,20 +6,22 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.8</title>
-            <pubDate>Thu, 15 Oct 2026 13:32:24 +0000</pubDate>
-            <sparkle:version>2.1.8</sparkle:version>
-            <sparkle:shortVersionString>2.1.8</sparkle:shortVersionString>
+            <title>GlideRail 2.1.9</title>
+            <pubDate>Tue, 20 Oct 2026 02:46:39 +0000</pubDate>
+            <sparkle:version>2.1.9</sparkle:version>
+            <sparkle:shortVersionString>2.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Fixed the floater button's menu: its buttons respond to clicks and hovers right away and no longer slide sideways</li>                </ul>
+                    <li>Reading text from images is faster</li>
+                    <li>Paste a screenshot, copied image or image file to add its text to your note, no dragging needed</li>
+                    <li>If an image has no text, or your Mac can't read it, GlideRail now tells you instead of doing nothing</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14688263"
+                length="14711656"
                 type="application/octet-stream"
-                sparkle:edSignature="REv254ImxRUYOisZTjkPx9ZXUJ9jrZtQy9N+izI/elbryY9chdKLA84ExEgpvNafnQU1hzvb3vonRE7XJ0ZjBg=="
+                sparkle:edSignature="Rlh6jd1iGweIzErQRqsmIw31Q2ccBv1FOUD44cNdjDbM7wytKkuDGG4naqJlMaBNwk4D3KAVdVsNhsvZQ4tPAA=="
             />
         </item>
     </channel>
