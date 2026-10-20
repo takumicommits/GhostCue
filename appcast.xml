@@ -6,22 +6,20 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.9</title>
-            <pubDate>Tue, 20 Oct 2026 02:46:39 +0000</pubDate>
-            <sparkle:version>2.1.9</sparkle:version>
-            <sparkle:shortVersionString>2.1.9</sparkle:shortVersionString>
+            <title>GlideRail 2.1.10</title>
+            <pubDate>Tue, 20 Oct 2026 05:14:16 +0000</pubDate>
+            <sparkle:version>2.1.10</sparkle:version>
+            <sparkle:shortVersionString>2.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Reading text from images is faster</li>
-                    <li>Paste a screenshot, copied image or image file to add its text to your note, no dragging needed</li>
-                    <li>If an image has no text, or your Mac can't read it, GlideRail now tells you instead of doing nothing</li>                </ul>
+                    <li>Where did you find GlideRail? now lists Instagram and Facebook</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14711656"
+                length="14711649"
                 type="application/octet-stream"
-                sparkle:edSignature="Rlh6jd1iGweIzErQRqsmIw31Q2ccBv1FOUD44cNdjDbM7wytKkuDGG4naqJlMaBNwk4D3KAVdVsNhsvZQ4tPAA=="
+                sparkle:edSignature="IHW9mkwzWQEMlscJdzE2ErlbCFAfaMGdQDbjAzmjFFcFBXpvbt7+nAjwFYeZU9+ZS2457HZr4pOx1+jq1GcoCw=="
             />
         </item>
     </channel>
