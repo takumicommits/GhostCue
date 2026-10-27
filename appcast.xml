@@ -6,20 +6,24 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.12</title>
-            <pubDate>Tue, 27 Oct 2026 02:06:03 +0000</pubDate>
-            <sparkle:version>2.1.12</sparkle:version>
-            <sparkle:shortVersionString>2.1.12</sparkle:shortVersionString>
+            <title>GlideRail 2.1.13</title>
+            <pubDate>Tue, 27 Oct 2026 04:42:35 +0000</pubDate>
+            <sparkle:version>2.1.13</sparkle:version>
+            <sparkle:shortVersionString>2.1.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>New downloads now start with 7 days of GlideRail Pro, free, no card needed</li>                </ul>
+                    <li>The sidebar, Cue Mode, Settings and the toolbar menus open and close faster and more smoothly</li>
+                    <li>New buttons throughout, and Invisible, Click-through and Voice Scroll light up in their own color when on</li>
+                    <li>Invisible, Click-through and Live Rail respond the moment you click them, and Voice Scroll starts again much faster</li>
+                    <li>The sidebar's scroll bar stays thin and hides when you're not scrolling</li>
+                    <li>Fixed a crash when Voice Scroll's "no audio" tip appeared</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14720367"
+                length="14755946"
                 type="application/octet-stream"
-                sparkle:edSignature="mYGmmGVjSuGUlzV/llDZzdEiiKyBO4WmKjSgMFY0yiaOJfWh3XYrl+HpCM0e7VJZ9i5exi59gOMVcEYRB3nkAw=="
+                sparkle:edSignature="ZSGw25LZHaHb0jEfgaqSYTxfMlWXrJ8Uj3XvUkLmn/cFBqdfh0WHhayc/YmSzLa/TczRvhgYBCeoUmJV+eajAg=="
             />
         </item>
     </channel>
