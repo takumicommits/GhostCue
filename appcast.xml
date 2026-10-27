@@ -6,20 +6,20 @@
         <description>GlideRail update feed</description>
         <language>en</language>
         <item>
-            <title>GlideRail 2.1.11</title>
-            <pubDate>Tue, 20 Oct 2026 06:03:54 +0000</pubDate>
-            <sparkle:version>2.1.11</sparkle:version>
-            <sparkle:shortVersionString>2.1.11</sparkle:shortVersionString>
+            <title>GlideRail 2.1.12</title>
+            <pubDate>Tue, 27 Oct 2026 02:06:03 +0000</pubDate>
+            <sparkle:version>2.1.12</sparkle:version>
+            <sparkle:shortVersionString>2.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>GlideRail now gets image reading ready in the background, so your first image reads faster</li>                </ul>
+                    <li>New downloads now start with 7 days of GlideRail Pro, free, no card needed</li>                </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/takumicommits/GhostCue/releases/download/latest/GlideRail.dmg"
-                length="14715477"
+                length="14720367"
                 type="application/octet-stream"
-                sparkle:edSignature="vWCPyZmekCs597RNmyQTPEjwA8OGe+e9TLFWGWDo+xiqYLPthWOLWclzrP9IdnxyxeSehNFqc9wCJAZI9H4pAw=="
+                sparkle:edSignature="mYGmmGVjSuGUlzV/llDZzdEiiKyBO4WmKjSgMFY0yiaOJfWh3XYrl+HpCM0e7VJZ9i5exi59gOMVcEYRB3nkAw=="
             />
         </item>
     </channel>
